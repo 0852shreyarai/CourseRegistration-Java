@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\n\ This\ is\ a\ parent\ class\ of\ AcademicCourse\ and\ NonAcademic\ sub\ classes\ with\ four\ attributes.\ \n\ It\ consists\ of\ a\ constructor,\ accessor\ method\ for\ each\ attribute,\ mutator\ methods\ to\ set\ the\ the\ value\ to\ class\ variables.\n\ And\ display\ method\ to\ display\ the\ outputs.\ \n\ \n\ @author\ Shreya\ Rai\n\ @version\ 11.0.2(07-05-2021)\n
+comment1.params=Id\ courseName\ duration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ A\ constructor\ for\ Course\ is\ created\ with\ three\ parameters\ -\ courseId,\ courseName,\ duration.\n\ \n\ @param\ courseId\ -\ Id\ of\ the\ course\n\ @param\ courseName\ -\ Name\ of\ the\ course\n\ @param\ duration\ -\ Duration\ of\ the\ course\n
+comment2.params=
+comment2.target=java.lang.String\ getCourseId()
+comment2.text=\n\ This\ method\ is\ used\ to\ get\ access\ to\ the\ Course\ attribute\ 'courseId'.\n\ \n\ @return\ -\ value\ of\ attribute\ 'courseId'\ of\ the\ class\n
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment3.text=\n\ This\ method\ is\ used\ to\ get\ access\ to\ the\ Course\ attribute\ 'courseName'.\n\ \n\ @return\ -\ value\ of\ attribute\ 'courseName'\ of\ the\ class\n
+comment4.params=
+comment4.target=java.lang.String\ getCourseLeader()
+comment4.text=\n\ This\ method\ is\ used\ to\ get\ access\ to\ the\ Course\ attribute\ 'courseLeader'.\n\ \n\ @return\ -\ value\ of\ attribute\ 'courseLeader'\ of\ the\ class\n
+comment5.params=
+comment5.target=int\ getDuration()
+comment5.text=\n\ This\ method\ is\ used\ to\ get\ access\ to\ the\ Course\ attribute\ 'duration'.\n\ \n\ @return\ -\ value\ of\ \ attribute\ 'duration'\ of\ the\ class\n
+comment6.params=courseLeader
+comment6.target=void\ setCourseLeader(java.lang.String)
+comment6.text=\n\ This\ method\ is\ created\ to\ set\ new\ course\ Leader\ with\ a\ parameter.\n\ It\ accepts\ new\ value\ as\ parameter\ and\ assigns\ the\ value\ to\ the\ courseLeader\ attribute.\n\ \n\ @param\ courseLeader\ -\ leader\ of\ the\ course\n
+comment7.params=
+comment7.target=void\ display()
+comment7.text=\n\ This\ method\ is\ created\ to\ display\ the\ stored\ details\ of\ the\ attribute\ of\ the\ class\ 'Course'.\n
+numComments=8
